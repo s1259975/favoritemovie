@@ -1,0 +1,10 @@
+body { background-color: yellow;
+       color: #green;
+	   font-family: "Times New Roman", serif;}
+
+a:link {
+         background-color: #CCCCCC;
+}
+	   
+h1	 { font-family: Arial;
+	   color: white;}
